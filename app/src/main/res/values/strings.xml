@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Serenity Sounds App</string>
+    <string name="txtTitle">Beats</string>
+    <string name="btnPremam">Play Premam Song</string>
+    <string name="btnPove">Play Po pove Song</string>
+    <string name="imgPremam">Premam Image</string>
+    <string name="imgPove">Pove Image</string>
+
+</resources>
